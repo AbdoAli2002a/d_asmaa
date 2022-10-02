@@ -1,4 +1,4 @@
-var message="موقع دكتورة اسماء رحمه الله عليها "     
+var message="موقع صدقة جارية علي روح الدكتورة اسماء سيد "     
 var message=message+"       " 
 i="0"			         
 var temptitle=""               
